@@ -14,7 +14,7 @@ class  con1{
         m=200;
     }
     public static void main(String args[]){
-        int x=20; int y=30;
+        int x=20; int y=50;
         con1 obj1=new con1(x,y);
         System.out.println(g1);
         System.out.println(g2);
