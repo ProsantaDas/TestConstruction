@@ -1,0 +1,12 @@
+ Volume in drive E is MY STORAGE
+ Volume Serial Number is C241-8885
+
+ Directory of E:\GitJavaProj
+
+01/16/2017  04:36 PM    <DIR>          .
+01/16/2017  04:36 PM    <DIR>          ..
+01/16/2017  04:27 PM               597 con1.class
+11/10/2014  01:02 PM               431 con1.java
+01/16/2017  04:36 PM                 0 test5.txt
+               3 File(s)          1,028 bytes
+               2 Dir(s)  364,464,443,392 bytes free
